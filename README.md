@@ -1,3 +1,7 @@
+#Netflix clone website view:file:///C:/Users/lenovo/OneDrive/Desktop/Web%20tasks/netflix/index.html
+
+
+
 # 🎬 Netflix Clone
 
 A responsive Netflix Clone built using **HTML** and **CSS**. This project recreates the homepage of Netflix with a modern UI, responsive layout, and attractive design. It is created for learning and practicing front-end web development skills.
